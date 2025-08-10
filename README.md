@@ -69,3 +69,6 @@ Inventory Planning – Align stock levels with demand patterns across regions.
 Revenue Growth Opportunities – Spot underperforming areas for improvement and investment.
 
 💡 First Power BI Project – This dashboard marks my entry into the world of professional data visualization and analytics, combining creativity with analytical depth.
+<h3>Screenshot/ Demo</h3>
+[Alt text](https://github.com/Indrajit-Maji/RADHA-MULTI-SALE-PROJECT1/blob/main/RADHA%20MULTI%20SALE%20PROJECT%20SCREENSHOT.png)<br>
+<button type="button">[Dashboard Preview](https://github.com/Indrajit-Maji/RADHA-MULTI-SALE-PROJECT1/blob/main/RADHA%20MULTI%20SALE%20PROJECT%20SCREENSHOT.png)</button>
